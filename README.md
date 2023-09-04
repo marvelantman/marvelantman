@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvelantman
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...programming
-- 💞️ I’m looking to collaborate on ...programming projects
+- 👀 I’m interested in ...SAAS idea and designing
+- 🌱 I’m currently learning ...data engineering
+- 💞️ I’m looking to collaborate on ...software projects
 - 📫 How to reach me ...lordmarvel888@gmail.com
 
 <!---
